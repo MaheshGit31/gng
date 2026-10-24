@@ -6,9 +6,9 @@ an AI chatbot that acts like a real person, knowing real trends and has gen alph
 <img width="1175" height="106" alt="image" src="https://github.com/user-attachments/assets/41d3d738-6eb3-4864-a6bd-3425bca20c74" />
 <img width="1167" height="176" alt="image" src="https://github.com/user-attachments/assets/d76a19c9-d9c5-4907-935a-a27622b4824d" />
 
-# How he works
+## How he works
 
-### gng works by just connecting ChatGPT to python, and giving it instructions to act like a true gen alpha.
+### the most basic way to say this is that gng works by just connecting ChatGPT to python, and giving it instructions to act like a true gen alpha.
 
 # I WANNA USE HIM!
 
